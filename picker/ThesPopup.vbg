@@ -1,0 +1,5 @@
+VBGROUP 5.0
+Project=ThesPopup.vbp
+Project=..\..\..\common\vbobj\adbasuti\adbasuti.vbp
+Project=..\..\..\editorial\desktop\theapp\AdisAppContext.vbp
+StartupProject=..\..\..\editorial\desktop\addskman\addskman.vbp
